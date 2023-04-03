@@ -862,6 +862,11 @@ const sidebars = {
         },
         {
           type: "doc",
+          label: "Crypto Precompiles",
+          id: "protocol/precompiles",
+        },
+        {
+          type: "doc",
           label: "Ultralight Client",
           id: "protocol/plumo",
         },
